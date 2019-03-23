@@ -29,7 +29,7 @@
     "eslint-plugin-jsx-a11y": "5.1.1",
     "eslint-plugin-react": "7.1.0",
     "extract-text-webpack-plugin": "3.0.0",
-    "highcharts": "^5.0.14",
+    "highcharts": "6.1.0",
     "nedb": "^1.8.0",
     "node-sass": "4.5.3",
     "photon": "github:connors/photon",
